@@ -12,8 +12,8 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://think-in-universe.github.io
-root: /blog/
+url: http://rdp-studio.github.io
+root: /blog-1/
 permalink: :category/:post_title/
 permalink_defaults:
 
@@ -82,7 +82,7 @@ theme: icarus
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/think-in-universe/blog.git
+  repository: https://github.com/rdp-studio/blog-1.git
   branch: gh-pages
 
 marked:
